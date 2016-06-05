@@ -2,7 +2,7 @@
 # too:
 #  - https://wiki.winehq.org/Gecko
 #  - https://wiki.winehq.org/Mono
-class Wine < Formula
+class WineMod < Formula
   desc "Run Windows applications without a copy of Microsoft Windows"
   homepage "https://www.winehq.org/"
   head "git://source.winehq.org/git/wine.git"
